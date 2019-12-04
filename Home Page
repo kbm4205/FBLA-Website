@@ -234,49 +234,49 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
 	<center>
-  <img src="FBLA_PBLA.jpg" width="1000" height="500">
+  <img src="FBLA_PBLA.jpg">
 	</center>
 </div>
 
 <div class="mySlides fade">
 	<center>
-  <img src="FBLA_STEAM.jpg" width="1000" height="500">
+  <img src="FBLA_STEAM.jpg">
 	</center>
 </div>
 
 <div class="mySlides fade">
 	<center>
-	<img src="Dennys.jpg" width="50%">
+	<img src="Dennys.jpg">
 	</center>
 </div>
 
 <div class="mySlides fade">
 	<center>
-	<img src="FBLA badge.png" width="50%">
+	<img src="FBLA Students.jpg" height="50%">
 	</center>
 </div>
 
 <div class="mySlides fade">
 	<center>
-	<img src="STEAM Logo.png" width="50%">
+	<img src="FBLA Students(2).jpg" height="50%">
 	</center>
 </div>
 
 <div class="mySlides fade">
 	<center>
-	<img src="FBLA Students.jpg" width="50%">
+	<img src="FBLA Students(3).jpg" height="50%">
 	</center>
 </div>
 
 <div class="mySlides fade">
 	<center>
-	<img src="FBLA Students(2).jpg" width="50%">
+	<img src="FBLA badge.png">
 	</center>
 </div>
 
 <div class="mySlides fade">
 	<center>
-	<img src="FBLA Students(3).jpg" width="50%">
+	<img src="STEAM Logo.png">
 	</center>
 </div>
 <br>
